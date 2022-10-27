@@ -45,7 +45,7 @@ string = ""
 
 x = int(input("Masukkan angka :"))
 bar = x
-# Looping Baris
+	# Looping Baris
 while bar >= 0:
 	# Looping Kolom Spasi Kosong
 	kol = bar
@@ -67,7 +67,7 @@ while bar >= 0:
 	bar = bar - 1
 
 bar = 1	
-# Looping Baris
+	# Looping Baris
 while bar <= x:
 	kol = bar+1
 	# Looping Kolom Spasi Kosong
